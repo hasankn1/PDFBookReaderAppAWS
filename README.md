@@ -12,7 +12,7 @@ Users can log in, sign up, view their bookshelf, read books, and save their prog
         Allows users to securely log in and access their bookshelf.
     
     User Sign up:
-        Allows users to signup to start reading.
+        Allows users to signup and start reading.
 
     Bookshelf Management:
         Lists all books on the user’s bookshelf, sorted by the most recently read.
