@@ -1,0 +1,123 @@
+{
+  "UserEmail": {
+    "S": "hasan@example.com"
+  },
+  "Author": {
+    "S": "Aurelien Geron"
+  },
+  "Author2": {
+    "S": "Stigler, Maddie"
+  },
+  "Bookmark": {
+    "S": "2024-12-04T20:15:49.0288379Z"
+  },
+  "Bookmark2": {
+    "S": "2024-12-04T20:15:49.0288379Z"
+  },
+  "BookTitle": {
+    "S": "Hands-On Machine Learning with - Aurelien Geron"
+  },
+  "BookTitle2": {
+    "S": "Beginning serverless computing_ developing with Amazon Web Services, Microsoft Azure, and Google Cloud-Apress L.P (2018)"
+  },
+  "LastPage1": {
+    "S": "1"
+  },
+  "LastPage2": {
+    "S": "1"
+  },
+  "Password": {
+    "S": "12345"
+  },
+  "S3URI": {
+    "S": "s3://hasankhancomp306/Hands-On Machine Learning with - Aurelien Geron.pdf"
+  },
+  "S3URI2": {
+    "S": "s3://hasankhancomp306/Stigler, Maddie - Beginning serverless computing_ developing with Amazon Web Services, Microsoft Azure, and Google Cloud-Apress L.P (2018).pdf"
+  }
+}
+
+-----------------------------------------------------
+
+{
+  "UserEmail": {
+    "S": "sadia@example.com"
+  },
+  "Author": {
+    "S": "Aurelien Geron"
+  },
+  "Author2": {
+    "S": "Stigler, Maddie"
+  },
+  "Bookmark": {
+    "S": "2024-12-04T20:21:02.9750000Z"
+  },
+  "Bookmark2": {
+    "S": "2024-12-04T20:21:02.9750000Z"
+  },
+  "BookTitle": {
+    "S": "Hands-On Machine Learning with - Aurelien Geron"
+  },
+  "BookTitle2": {
+    "S": "Beginning serverless computing_ developing with Amazon Web Services, Microsoft Azure, and Google Cloud-Apress L.P (2018)"
+  },
+  "LastPage1": {
+    "S": "1"
+  },
+  "LastPage2": {
+    "S": "1"
+  },
+  "Password": {
+    "S": "12345"
+  },
+  "S3URI": {
+    "S": "s3://hasankhancomp306/Hands-On Machine Learning with - Aurelien Geron.pdf"
+  },
+  "S3URI2": {
+    "S": "s3://hasankhancomp306/Stigler, Maddie - Beginning serverless computing_ developing with Amazon Web Services, Microsoft Azure, and Google Cloud-Apress L.P (2018).pdf"
+  }
+}
+
+------------------------------------------------
+
+{
+  "UserEmail": {
+    "S": "test@example.com"
+  },
+  "Author": {
+    "S": "Aurelien Geron"
+  },
+  "Author2": {
+    "S": "Stigler, Maddie"
+  },
+  "Bookmark": {
+    "S": "2024-12-04T20:28:23.0316732Z"
+  },
+  "Bookmark2": {
+    "S": "2024-12-04T20:28:23.0316732Z"
+  },
+  "BookTitle": {
+    "S": "Hands-On Machine Learning with - Aurelien Geron"
+  },
+  "BookTitle2": {
+    "S": "Beginning serverless computing_ developing with Amazon Web Services, Microsoft Azure, and Google Cloud-Apress L.P (2018)"
+  },
+  "DateTime": {
+    "S": "2024-12-04T20:30:43.406Z"
+  },
+  "LastPage1": {
+    "N": "770"
+  },
+  "LastPage2": {
+    "N": "22"
+  },
+  "Password": {
+    "S": "12345"
+  },
+  "S3URI": {
+    "S": "s3://hasankhancomp306/Hands-On Machine Learning with - Aurelien Geron.pdf"
+  },
+  "S3URI2": {
+    "S": "s3://hasankhancomp306/Stigler, Maddie - Beginning serverless computing_ developing with Amazon Web Services, Microsoft Azure, and Google Cloud-Apress L.P (2018).pdf"
+  }
+}
