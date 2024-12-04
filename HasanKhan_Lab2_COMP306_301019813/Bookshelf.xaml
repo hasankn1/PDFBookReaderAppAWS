@@ -1,0 +1,19 @@
+﻿<Window x:Class="HasanKhan_Lab2_COMP306_301019813.Bookshelf"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HasanKhan_Lab2_COMP306_301019813"
+        mc:Ignorable="d"
+        Closing="Window_ClosingHandler"
+        Title="Bookshelf" Height="450" Width="800">
+    <Grid Margin="10">
+        <!-- User info at the top -->
+        <TextBlock Text="Hello" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="16" Margin="10,10,0,0"/>
+        <TextBlock Name="txtUserEmail" Text="" Foreground="Blue" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="16" Margin="60,10,0,0" Width="389" />
+
+        <Button x:Name="Book1" Content="Book1" HorizontalAlignment="Center" Margin="0,45,0,0" VerticalAlignment="Top" Height="67" Width="760" Background="CadetBlue" Foreground="Black" FontWeight="Bold" Click="Book1_Click"/>
+        <Button x:Name="Book2" Content="Book2" HorizontalAlignment="Center" Margin="0,126,0,0" VerticalAlignment="Top" Height="67" Width="760" Background="CadetBlue" Foreground="Black" FontWeight="Bold" Click="Book2_Click"/>
+        <Button x:Name="Book3" Content="Book3" HorizontalAlignment="Center" Margin="0,207,0,0" VerticalAlignment="Top" Height="71" Width="760" Background="CadetBlue" Foreground="Black" FontWeight="Bold"/>
+    </Grid>
+</Window>

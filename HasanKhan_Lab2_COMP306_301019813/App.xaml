@@ -1,0 +1,9 @@
+﻿<Application x:Class="HasanKhan_Lab2_COMP306_301019813.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:HasanKhan_Lab2_COMP306_301019813"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
