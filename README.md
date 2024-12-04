@@ -31,11 +31,13 @@ AWS DynamoDB Table: Populate sample data using this [File](https://github.com/ha
 ![Screenshot 2024-12-04 153955](https://github.com/user-attachments/assets/a0f7ecff-f89d-47c9-92c8-c3e44f8fba47)
 ![Screenshot 2024-12-04 153234](https://github.com/user-attachments/assets/3f484e1f-d3c6-4dfc-91b5-68f6b9807c81)
 ![Screenshot 2024-12-04 153226](https://github.com/user-attachments/assets/e6f4a7b6-f55f-491f-9408-5002d00673bc)
+![Screenshot 2024-12-04 154026](https://github.com/user-attachments/assets/6ca96cf2-4837-4fdd-8833-fb4667c33a0c)
+![Screenshot 2024-12-04 154049](https://github.com/user-attachments/assets/c26b9adc-2982-4c8e-af74-1230aaf0405f)
+
+AWS S3 Buckets with books:
 ![Screenshot 2024-12-04 153153](https://github.com/user-attachments/assets/c4680a30-2ea7-42b2-8796-57bff4c518e3)
 ![Screenshot 2024-12-04 153130](https://github.com/user-attachments/assets/bb213107-94cd-4a6a-b219-0a0399bee39d)
-AWS S3 Buckets with books:
-![Screenshot 2024-12-04 154049](https://github.com/user-attachments/assets/c26b9adc-2982-4c8e-af74-1230aaf0405f)
-![Screenshot 2024-12-04 154026](https://github.com/user-attachments/assets/6ca96cf2-4837-4fdd-8833-fb4667c33a0c)
+
 AWS IAM Credentials: Ensure valid access to AWS services.
 
 ## 🧰 Technical Stack
